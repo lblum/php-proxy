@@ -1,15 +1,15 @@
 {
-    "name": "jenssegers/proxy",
+    "name": "lblum/proxy",
     "description": "Proxy library that forwards requests to the desired url and returns the response.",
     "keywords": [
         "proxy"
     ],
-    "homepage": "https://github.com/jenssegers/php-proxy",
+    "homepage": "https://github.com/lblum/php-proxy",
     "license": "MIT",
     "authors": [
         {
             "name": "Jens Segers",
-            "homepage": "https://jenssegers.com"
+            "homepage": "https://lblum.com"
         },
         {
             "name": "Ota Mares",
